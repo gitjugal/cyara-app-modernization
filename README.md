@@ -1,5 +1,5 @@
 # Cloud Agnostic Deployment - App modernization
-This getting started guide is intended to demonstrated how the Cyara apps which comprise of Windows as well as Linux based services can be transformed to allow a more cloud agnostic deployment.
+This getting started guide is intended to demonstrate how the Cyara apps which comprise of Windows as well as Linux based services can be transformed to allow a more cloud agnostic deployment.
 
 ## Architecture Overview
 The below architecture diagram is for a more cloud agnostic approach. Using this approach, the deployments can be made even in private datacenter by ensuring we have access to the cloud endpoints for github, dockerhub and Elasticsearch cloud. 
